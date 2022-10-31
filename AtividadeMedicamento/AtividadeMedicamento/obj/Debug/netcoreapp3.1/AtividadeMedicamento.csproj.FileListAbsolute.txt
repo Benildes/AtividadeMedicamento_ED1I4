@@ -1,0 +1,5 @@
+E:\CURSO-UDEMY-Codigo-C#-Prof Nelio Alves\ws-vs2019\AtividadeMedicamento\AtividadeMedicamento\obj\Debug\netcoreapp3.1\AtividadeMedicamento.csproj.AssemblyReference.cache
+E:\CURSO-UDEMY-Codigo-C#-Prof Nelio Alves\ws-vs2019\AtividadeMedicamento\AtividadeMedicamento\obj\Debug\netcoreapp3.1\AtividadeMedicamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO-UDEMY-Codigo-C#-Prof Nelio Alves\ws-vs2019\AtividadeMedicamento\AtividadeMedicamento\obj\Debug\netcoreapp3.1\AtividadeMedicamento.AssemblyInfoInputs.cache
+E:\CURSO-UDEMY-Codigo-C#-Prof Nelio Alves\ws-vs2019\AtividadeMedicamento\AtividadeMedicamento\obj\Debug\netcoreapp3.1\AtividadeMedicamento.AssemblyInfo.cs
+E:\CURSO-UDEMY-Codigo-C#-Prof Nelio Alves\ws-vs2019\AtividadeMedicamento\AtividadeMedicamento\obj\Debug\netcoreapp3.1\AtividadeMedicamento.csproj.CoreCompileInputs.cache
